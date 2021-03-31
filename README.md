@@ -27,3 +27,6 @@ Computing 2 sem, Faculty of Computing and Telecomunications Poznań Univeristy o
 2. Result can be found in `filetree.pdf`
 
 Run options are avaliable under `$ ./filetree.sh -h`
+
+# Example result:
+![](./result.jpg)
